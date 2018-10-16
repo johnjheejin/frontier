@@ -1,6 +1,18 @@
 tech.kakao.com
 ==============
 
+Thx to Kakao tech blog.
+
+윈도우 작업환경에선 로컬서버 확인시 이걸 확인하세요!
+```
+chcp 65001
+```
+이걸로 chcp (윈도우 cmd 창 언어셋 설정) 을 UTF-8로 맞춥니다.
+
+
+---
+
+
 > 주의: [GitHub Pages]와 [Jekyll]에 대해서 충분히 숙지할 것.
 > 주의: [Collaborating on projects using issues and pull requests](https://help.github.com/categories/collaborating-on-projects-using-issues-and-pull-requests/)을 정독.
 
