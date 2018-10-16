@@ -7,7 +7,7 @@ sitemap: yes
 excerpt: kakao의 오픈소스를 소개합니다.
 tags: [opensource,s2graph,mrte,hbase-tools,hbase-region-inspector,adt,daum-editor]
 ---
-<a id="forkme" href="https://github.com/kakao"></a>
+<!-- <a id="forkme" href="https://github.com/kakao"></a> -->
 
 ## Apache S2Graph
 
