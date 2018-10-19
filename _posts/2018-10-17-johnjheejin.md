@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '공사중'
-author: john.j
+author: 정희진
 date: 2018-10-17 18:01
 tags: [devlog,frontierbulidin]
 ---
