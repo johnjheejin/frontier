@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authors
+title: 글쓰는 사람들
 permalink: /authors/
 sitemap:
   priority: 0.7
