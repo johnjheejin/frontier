@@ -1,7 +1,13 @@
-tech.kakao.com
+Frontier blog
 ==============
 
 Thx to Kakao tech blog.
+
+블로그 환경이 대부분 갖춰진 [kakao기술 블로그](tech.kakao.com)를 포킹하여 만듭니다. 조금씩 지킬 익히면서 체화할게요 :D
+
+
+
+### (참고) 윈도우 환경 작업시
 
 윈도우 작업환경에선 로컬서버 확인시 이걸 확인하세요!
 ```
@@ -9,6 +15,21 @@ chcp 65001
 ```
 이걸로 chcp (윈도우 cmd 창 언어셋 설정) 을 UTF-8로 맞춥니다.
 
+
+
+### Github Desktop
+
+사용범위 안에서 문제가 없다면, git 사용에 익숙하지 않다면, 아래 git command보다 gui툴이 직관적이라 사용이 편하였습니다.
+
+
+
+
+
+
+
+## 아래는 [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 공개된 설명서입니다.
+
+말끔한 설명에 아래 첨부합니다.
 
 ---
 
@@ -63,7 +84,7 @@ $ open http://localhost:4000
 ```
 $ git commit -m '...'
 $ git push origin master
-````
+​````
 
 <https://github.com/kakao/kakao.github.io> 에 push 권한이 없다면:
 
@@ -146,3 +167,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ### caution
 Kakao fonts(/assets/fonts/) are fonts for Kakao brands and are not available for other uses.
 > 카카오 폰트(/assets/fonts/)는 카카오 브랜드용 서체로 다른 용도로는 이용할 수 없습니다.
+```
