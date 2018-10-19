@@ -16,9 +16,7 @@
     <ul id="menu" class="nav">
         <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">[ FRONTIER ] blog</a></li>
         <li class="{% if page.url == '/about/' %} active {% endif %}"><a href="{{ base_path }}/about/">About</a></li>
-        <!-- 나중에 추가하자
-        <li class="{% if page.url == '/openapi/' %} active {% endif %}"><a href="{{ base_path }}/openapi/">오픈API</a></li>
-        <li class="{% if page.url == '/events/' %} active {% endif %}"><a href="{{ base_path }}/events/">기술행사</a></li> -->
+        <li class="{% if page.url == '/authors/' %} active {% endif %}"><a href="{{ base_path }}/authors/">글쓰는 사람들</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->

@@ -1,5 +1,5 @@
 ---
-name: john.j
+name: 정희진
 title: 정희진
 image: /files/authors/john.j.jpg
 ---
