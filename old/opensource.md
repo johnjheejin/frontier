@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kakao의 오픈소스
-image: /files/covers/opensource.jpg
+<!-- image: /files/covers/opensource.jpg -->
 permalink: /opensource/
 sitemap: yes
 excerpt: kakao의 오픈소스를 소개합니다.

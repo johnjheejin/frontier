@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About [ FRONTIER ]
-permalink: /about/
+<!-- permalink: /about/ -->
 image: /files/covers/frontier-cover.jpg
 sitemap: yes
 tags: [about]

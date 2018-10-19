@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 기술 행사
-permalink: /events/
+<!-- permalink: /events/ -->
 sitemap: yes
 excerpt: kakao가 주최하거나 후원한 기술 행사들을 소개합니다.
 tags: [events]

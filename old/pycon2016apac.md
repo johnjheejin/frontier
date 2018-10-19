@@ -2,7 +2,7 @@
 layout: page
 title: 코딩배틀 가위바위보 in 파이콘 2016 APAC
 image: /files/covers/python-in-ex-machina.jpg
-permalink: /pycon2016apac/
+<!-- permalink: /pycon2016apac/ -->
 tags: [events]
 ---
 
