@@ -3,7 +3,7 @@ layout: post
 title: '공사중'
 author: 정희진
 date: 2018-10-17 18:01
-tags: [devlog,frontierbulidin]
+tags: [devlog,frontierbuildin]
 ---
 ## 공사중입니다 (뚝닥뚝닥)
 
