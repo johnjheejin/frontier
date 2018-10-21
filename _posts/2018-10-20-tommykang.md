@@ -28,7 +28,7 @@ image: /files/covers/onepaper_cover.jpg
 
 ## "블록체인 원페이퍼"
 
-[블록체인 원페이퍼 스케치 시작!](/files/onepapaer/sketch.png)
+![블록체인 원페이퍼 스케치 시작!](/files/onepaper/sketch.png)
 
 먼저 블록체인에서 어떠한 개념을 알아야 하는지 단어로 알아봐야 합니다. "블록체인 원페이퍼"에 들어가는 키워드를 아래에 나열해보겠습니다. 이 키워드는 계속 추가될 예정입니다.
 
